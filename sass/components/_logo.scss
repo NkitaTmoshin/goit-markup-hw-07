@@ -1,0 +1,17 @@
+.page-logo {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    text-decoration: none;
+
+    &--blue {
+    color: $brand-color;
+}
+    &--black {
+    color: $primal-text-color;
+}
+    &--white {
+    color: $white-color;
+}
+}
